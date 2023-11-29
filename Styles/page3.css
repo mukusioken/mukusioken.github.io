@@ -1,0 +1,16 @@
+body{
+  color:oldlace;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font: 300;
+    
+}
+ input {
+    font-family: 'Helvetica', Arial, Lucida Grande, sans-serif;
+    font-size: 100px; /* if that’s what you want... */
+    line-height: 1.4; /* somewhat excessive */
+    color: #a12222; /* if that’s what you want, but it reduces legibility */
+    background: white; /* always set background when you set color */
+}
+
+
